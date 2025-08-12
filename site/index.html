@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Signal Tracker</title>
+    <style>
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; }
+      h1 { margin: 0 0 8px; }
+      .meta { color: #555; margin-bottom: 16px; }
+      table { border-collapse: collapse; width: 100%; }
+      th, td { border-bottom: 1px solid #eee; padding: 8px; text-align: left; }
+      tr:hover { background: #fafafa; }
+      .pill { display:inline-block; padding:2px 8px; border-radius:12px; border:1px solid #ddd; font-size:12px;}
+    </style>
+  </head>
+  <body>
+    <h1>AI Signal Tracker</h1>
+    <div class="meta">Latest daily signals from GitHub Actions. <span id="generated"></span></div>
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th>Score</th>
+          <th>Type</th>
+          <th>Company</th>
+          <th>Title</th>
+          <th>Source</th>
+          <th>Observed</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <script>
+      async function init() {
+        const res = await fetch('./signals.json?_=' + Date.now());
+        const data = await res.json();
+        document.getElementById('generated').textContent = 'Generated at: ' + data.generated_at;
+        const tbody = document.querySelector('#tbl tbody');
+        data.top_signals.forEach(s => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td>${s.score?.toFixed ? s.score.toFixed(1) : s.score}</td>
+            <td><span class="pill">${s.type}</span></td>
+            <td>${s.company_id || ''}</td>
+            <td>${s.title || ''}</td>
+            <td><a href="${s.source_url}" target="_blank" rel="noopener">link</a></td>
+            <td>${s.observed_at || ''}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      }
+      init();
+    </script>
+  </body>
+</html>
