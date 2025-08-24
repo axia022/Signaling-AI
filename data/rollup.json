@@ -4113,6 +4113,66 @@
         "score": 35.0
       },
       {
+        "id": "e326043eda5186dfe8193ed31f1e3598136abe2c",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "transformers (\u2605148726)",
+        "source_url": "https://github.com/huggingface/transformers",
+        "observed_at": "2025-08-24T08:40:44Z",
+        "delta_metric": 148726,
+        "score": 35.0
+      },
+      {
+        "id": "069ed3617d1d1eac4e9491a206843916d17d2ce3",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "accelerate (\u26059059)",
+        "source_url": "https://github.com/huggingface/accelerate",
+        "observed_at": "2025-08-24T08:40:44Z",
+        "delta_metric": 9059,
+        "score": 35.0
+      },
+      {
+        "id": "447bce5c2a8bc21603599bac19ff461060836699",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "hub-docs (\u2605432)",
+        "source_url": "https://github.com/huggingface/hub-docs",
+        "observed_at": "2025-08-24T08:40:44Z",
+        "delta_metric": 432,
+        "score": 35.0
+      },
+      {
+        "id": "eec40c787673f611a4b2fef397269ca834a8be23",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "diffusers (\u260530453)",
+        "source_url": "https://github.com/huggingface/diffusers",
+        "observed_at": "2025-08-24T08:40:44Z",
+        "delta_metric": 30453,
+        "score": 35.0
+      },
+      {
+        "id": "de9c16c78674ce56e278a5cf30a53cb1f5609bf4",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "swift-transformers (\u26051060)",
+        "source_url": "https://github.com/huggingface/swift-transformers",
+        "observed_at": "2025-08-24T08:40:46Z",
+        "delta_metric": 1060,
+        "score": 35.0
+      },
+      {
+        "id": "fe413436fac6da8805f3e66a4608b995b9ed62b6",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "nanoVLM (\u26053923)",
+        "source_url": "https://github.com/huggingface/nanoVLM",
+        "observed_at": "2025-08-24T08:40:48Z",
+        "delta_metric": 3923,
+        "score": 35.0
+      },
+      {
         "id": "bb331e8c55e5812535551e1653c1206f241d1be0",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -10043,7 +10103,7 @@
         "score": 14.16
       }
     ],
-    "score_7d": 24815.049999999923
+    "score_7d": 25025.049999999923
   },
   {
     "company_id": "mistral.ai",
@@ -35673,8 +35733,408 @@
         "observed_at": "2025-08-15T08:52:10Z",
         "delta_metric": 1,
         "score": 14.16
+      },
+      {
+        "id": "747dbc1ef8aa0c43ee0a5b2e75415b7bddd818a1",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "comet-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "e10933045fc6261fd9880a07ac05fb86fe61c22a",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "comet-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "e4da46b3ea80b7d19e2275386188d9cd969a4e90",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "comet-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "d4a05bb4619b3c567563610c3c3c8de3c97f6717",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "comet-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "feacc0e6d4c45d62d56405c8f542db81282e75f4",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "comet-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "a169984055b9c0eddf39d05da46c113bf0a86846",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "comet-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "416a8bd0ff6e4fd5abbbc89c7a5502dd135c39cd",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "teachers-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "73ea263dc60c29c5fa26973dd84ba5c20d3aac9d",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "teachers-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "06652590dbe93d144cb72761b9368046405ec966",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "teachers-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "940ac3a53347dacf1976aecec944a566ada160aa",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "teachers-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "827c82afd3734dfcb29763ec485c83173d5ca9a7",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "teachers-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "76e0fc2e3b16d6fd2771e554f7558f2c6cc57671",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "teachers-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "3ef6152e575a27ce841013bc9ce10146cf269f32",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "*.perplexity.ai\nperplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "2728b3e1f0af6fc8079bcbf8912e4924ff50016a",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "09c281f6c6432fca876d854b59ed188aa85c3416",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "fff5d0a678a49b6556082624e03146cc1e4ebad7",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "47cf29b36ef3c50e65e535478673106c215ce0a0",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "61b101a5112cd4dffffe2c6db43f2620a2c49120",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "5d909eb457b6878e334c872d8b750c2c5591153a",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "2722a7e30c34a993402303d055801ccba3ebe1f2",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "b068b58f4b291038610e304ab6d3172ec54a8536",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "e7daec3807f4d8bdc4e0ea67bfd2c00142207422",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "df2ac10b0f2c7a76c7394d7d32f50e48b9c6370b",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "2c9f9094acd15d258af26cae39590d512b937b87",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "2cf669a53dc6ca0b1820f6407311545d221d934c",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "04896e3e56ee26bbb13162e02108018a2607c966",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "20da8193d7a0daf732af4abe55838da8082183ba",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "ac421152f3c906a964d5b96595df7c13b523bc31",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "ee34f58aaf031829b513739f4a001630422462cd",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "backtoschool-prod-framer.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "02efb88991c225ed6a56a96c23a176f8f8003dc0",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "agi-v2.perplexity.ai\nperplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "c203ac98aa08bf5341ba7b7f8bb38e230256a3b1",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "curators-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "79c60fd1be7df7ad4a3a10179aa00a37a0595ad9",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "curators-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "b2a0187bc0c34b5f80dacca0b4c2be4b35df8f03",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "curators-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "d6c7eb9f8e3971fe3121e7aedf5460de7bb5de3d",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "curators-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "a3c33bd0b715c305c4338c35f6755f3dfb02c8f8",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "curators-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "054d4f20012ae40e62b2083138cdd9a66f2c6f8c",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "curators-framer-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "4764bdf797df3e15e330284221c79160b5f28160",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "discover-audio.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "10b026b746fb523f51b4aef6855b9baedb7e14f2",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "pplx-next-static-public.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "e239fd2949438d4ca4caa133215d304711062034",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "email.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "99f601b38d92788f3a87e4a933bf6ebb6757a8a1",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "pplx-sidecar-v2.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-24T08:40:43Z",
+        "delta_metric": 1,
+        "score": 14.16
       }
     ],
-    "score_7d": 17932.059999999845
+    "score_7d": 18498.45999999984
   }
 ]
