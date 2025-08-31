@@ -5613,6 +5613,76 @@
         "score": 35.0
       },
       {
+        "id": "5918957ffad355b79e526bf6ab91e89f699ea833",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "transformers (\u2605148985)",
+        "source_url": "https://github.com/huggingface/transformers",
+        "observed_at": "2025-08-31T08:38:00Z",
+        "delta_metric": 148985,
+        "score": 35.0
+      },
+      {
+        "id": "e6a0e927b8f4f1f75c22357e4cc6e09f1011dadc",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "trl (\u260515304)",
+        "source_url": "https://github.com/huggingface/trl",
+        "observed_at": "2025-08-31T08:38:00Z",
+        "delta_metric": 15304,
+        "score": 35.0
+      },
+      {
+        "id": "1cb7648e96ce30a192ad4eabf8dd3a1173837576",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "hub-docs (\u2605435)",
+        "source_url": "https://github.com/huggingface/hub-docs",
+        "observed_at": "2025-08-31T08:38:00Z",
+        "delta_metric": 435,
+        "score": 35.0
+      },
+      {
+        "id": "1c7e2108e10e9d0e9b058a79d3d604465df97e1e",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "diffusers (\u260530529)",
+        "source_url": "https://github.com/huggingface/diffusers",
+        "observed_at": "2025-08-31T08:38:00Z",
+        "delta_metric": 30529,
+        "score": 35.0
+      },
+      {
+        "id": "9a56c05de559892806f0d57ba16258e08571ca5b",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "huggingface.js (\u26052213)",
+        "source_url": "https://github.com/huggingface/huggingface.js",
+        "observed_at": "2025-08-31T08:38:02Z",
+        "delta_metric": 2213,
+        "score": 35.0
+      },
+      {
+        "id": "65827db5de5034ac5c7f8d5e883b5272691532f8",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "lerobot (\u260516914)",
+        "source_url": "https://github.com/huggingface/lerobot",
+        "observed_at": "2025-08-31T08:38:02Z",
+        "delta_metric": 16914,
+        "score": 35.0
+      },
+      {
+        "id": "1713ef1cdee4c03bc4627fff1d4f15d600fdc4a4",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "optimum-onnx (\u260537)",
+        "source_url": "https://github.com/huggingface/optimum-onnx",
+        "observed_at": "2025-08-31T08:38:09Z",
+        "delta_metric": 37,
+        "score": 35.0
+      },
+      {
         "id": "bb331e8c55e5812535551e1653c1206f241d1be0",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -6013,6 +6083,16 @@
         "score": 31.64
       },
       {
+        "id": "4677f765437d14425ed3d135a2376735bf0fafb0",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "tailscale-action (\u260515)",
+        "source_url": "https://github.com/huggingface/tailscale-action",
+        "observed_at": "2025-08-31T08:38:08Z",
+        "delta_metric": 15,
+        "score": 31.64
+      },
+      {
         "id": "b1ccb48c3ec12ab3c81760b3729939e984030ae5",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -6059,16 +6139,6 @@
         "title": "peft-pytorch-conference (\u260514)",
         "source_url": "https://github.com/huggingface/peft-pytorch-conference",
         "observed_at": "2025-08-12T03:11:21Z",
-        "delta_metric": 14,
-        "score": 31.25
-      },
-      {
-        "id": "4677f765437d14425ed3d135a2376735bf0fafb0",
-        "company_id": "huggingface.co",
-        "type": "oss",
-        "title": "tailscale-action (\u260514)",
-        "source_url": "https://github.com/huggingface/tailscale-action",
-        "observed_at": "2025-08-12T03:11:22Z",
         "delta_metric": 14,
         "score": 31.25
       },
@@ -11673,7 +11743,7 @@
         "score": 14.16
       }
     ],
-    "score_7d": 30431.439999999922
+    "score_7d": 30676.82999999992
   },
   {
     "company_id": "mistral.ai",
@@ -38973,8 +39043,18 @@
         "observed_at": "2025-08-30T08:39:15Z",
         "delta_metric": 1,
         "score": 14.16
+      },
+      {
+        "id": "abfb30efaf37d068ebe7f09c55e915cb597567af",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "hub-prod.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-08-31T08:37:58Z",
+        "delta_metric": 1,
+        "score": 14.16
       }
     ],
-    "score_7d": 19772.859999999826
+    "score_7d": 19787.019999999826
   }
 ]
