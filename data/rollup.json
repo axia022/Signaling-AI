@@ -7123,6 +7123,36 @@
         "score": 35.0
       },
       {
+        "id": "8e665f9d5b2ec86bc9575ec54411df467d11682e",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "transformers (\u2605149258)",
+        "source_url": "https://github.com/huggingface/transformers",
+        "observed_at": "2025-09-07T08:35:16Z",
+        "delta_metric": 149258,
+        "score": 35.0
+      },
+      {
+        "id": "c10c29d42ccaf745583c6d4e377f6b8adea81d61",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "accelerate (\u26059103)",
+        "source_url": "https://github.com/huggingface/accelerate",
+        "observed_at": "2025-09-07T08:35:16Z",
+        "delta_metric": 9103,
+        "score": 35.0
+      },
+      {
+        "id": "04457d8c32a920f08c7b0d427e6f204061d7c0e6",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "hub-docs (\u2605439)",
+        "source_url": "https://github.com/huggingface/hub-docs",
+        "observed_at": "2025-09-07T08:35:16Z",
+        "delta_metric": 439,
+        "score": 35.0
+      },
+      {
         "id": "bb331e8c55e5812535551e1653c1206f241d1be0",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -9179,6 +9209,16 @@
         "title": "torchtitan (\u26050)",
         "source_url": "https://github.com/huggingface/torchtitan",
         "observed_at": "2025-09-06T08:34:55Z",
+        "delta_metric": 0,
+        "score": 15.0
+      },
+      {
+        "id": "fd5375c538591e092a3d2d28406c9ee3f7ee8001",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "torchtitan (\u26050)",
+        "source_url": "https://github.com/huggingface/torchtitan",
+        "observed_at": "2025-09-07T08:35:19Z",
         "delta_metric": 0,
         "score": 15.0
       },
@@ -13383,7 +13423,7 @@
         "score": 14.16
       }
     ],
-    "score_7d": 36213.310000000805
+    "score_7d": 36333.310000000834
   },
   {
     "company_id": "mistral.ai",
@@ -27357,9 +27397,39 @@
         "observed_at": "2025-09-06T08:35:18Z",
         "delta_metric": 1,
         "score": 14.16
+      },
+      {
+        "id": "358ee953083595c6bb32ce93500342bae5ce79b7",
+        "company_id": "mistral.ai",
+        "type": "domain",
+        "title": "legal.cms.mistral.ai",
+        "source_url": "https://crt.sh/?q=mistral.ai",
+        "observed_at": "2025-09-07T08:35:41Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "66b05525a883b44a16783ee02b5c23e4a6f3427a",
+        "company_id": "mistral.ai",
+        "type": "domain",
+        "title": "legal.cms.mistral.ai",
+        "source_url": "https://crt.sh/?q=mistral.ai",
+        "observed_at": "2025-09-07T08:35:41Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "af664c006465e24930bcf80cb757617f1cf5277e",
+        "company_id": "mistral.ai",
+        "type": "domain",
+        "title": "legal.cms.mistral.ai",
+        "source_url": "https://crt.sh/?q=mistral.ai",
+        "observed_at": "2025-09-07T08:35:41Z",
+        "delta_metric": 1,
+        "score": 14.16
       }
     ],
-    "score_7d": 20824.76999999981
+    "score_7d": 20867.24999999981
   },
   {
     "company_id": "perplexity.ai",
@@ -41563,8 +41633,28 @@
         "observed_at": "2025-09-06T08:34:49Z",
         "delta_metric": 1,
         "score": 14.16
+      },
+      {
+        "id": "efc91c05ff507fd3ca5b61cd711d337f8dafcff2",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "fellowship.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-09-07T08:35:14Z",
+        "delta_metric": 1,
+        "score": 14.16
+      },
+      {
+        "id": "1d5c2284b1fb08966b2ad75e7cb476970f212afc",
+        "company_id": "perplexity.ai",
+        "type": "domain",
+        "title": "fellowship.perplexity.ai",
+        "source_url": "https://crt.sh/?q=perplexity.ai",
+        "observed_at": "2025-09-07T08:35:14Z",
+        "delta_metric": 1,
+        "score": 14.16
       }
     ],
-    "score_7d": 20126.859999999822
+    "score_7d": 20155.179999999822
   }
 ]
