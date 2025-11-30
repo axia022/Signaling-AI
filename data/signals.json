@@ -27160,6 +27160,46 @@
     "score": 35.0
   },
   {
+    "id": "c7e0ea2ba7e6f8c6a03b515dd9f01381e77b22ff",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "transformers (★153177)",
+    "source_url": "https://github.com/huggingface/transformers",
+    "observed_at": "2025-11-30T08:22:07Z",
+    "delta_metric": 153177,
+    "score": 35.0
+  },
+  {
+    "id": "227a038e6c513736e3ceaa7ceda23b64f060e2d1",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "hub-docs (★475)",
+    "source_url": "https://github.com/huggingface/hub-docs",
+    "observed_at": "2025-11-30T08:22:07Z",
+    "delta_metric": 475,
+    "score": 35.0
+  },
+  {
+    "id": "d865dacf712a0d5e547cf8ff249cb4d0dae5f053",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "diffusers (★31811)",
+    "source_url": "https://github.com/huggingface/diffusers",
+    "observed_at": "2025-11-30T08:22:07Z",
+    "delta_metric": 31811,
+    "score": 35.0
+  },
+  {
+    "id": "e3b6b2f90d10b55e2e84380c95d535ddedc74ac4",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "chat-ui (★10313)",
+    "source_url": "https://github.com/huggingface/chat-ui",
+    "observed_at": "2025-11-30T08:22:08Z",
+    "delta_metric": 10313,
+    "score": 35.0
+  },
+  {
     "id": "8cdf192c97305a78701e7fcf4cc1640d319c09a1",
     "company_id": "huggingface.co",
     "type": "oss",
@@ -28270,6 +28310,16 @@
     "score": 32.0
   },
   {
+    "id": "7fc0fb0daba1ce564c14c5919a28487a9bb1e94b",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "skills (★16)",
+    "source_url": "https://github.com/huggingface/skills",
+    "observed_at": "2025-11-30T08:22:11Z",
+    "delta_metric": 16,
+    "score": 32.0
+  },
+  {
     "id": "3528d61c25b485e0e54d4e5fe64f6f8f2d5ac6d5",
     "company_id": "huggingface.co",
     "type": "oss",
@@ -28366,16 +28416,6 @@
     "title": "TensorRT-LLM (★15)",
     "source_url": "https://github.com/mistralai/TensorRT-LLM",
     "observed_at": "2025-11-09T08:20:31Z",
-    "delta_metric": 15,
-    "score": 31.64
-  },
-  {
-    "id": "7fc0fb0daba1ce564c14c5919a28487a9bb1e94b",
-    "company_id": "huggingface.co",
-    "type": "oss",
-    "title": "skills (★15)",
-    "source_url": "https://github.com/huggingface/skills",
-    "observed_at": "2025-11-29T08:23:28Z",
     "delta_metric": 15,
     "score": 31.64
   },
@@ -49954,46 +49994,6 @@
     "company_id": "mistral.ai",
     "type": "domain",
     "title": "mistral.ai",
-    "source_url": "https://crt.sh/?q=mistral.ai",
-    "observed_at": "2025-08-12T08:54:52Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "4caf26b1c6e218c942111a65081f71ffb749a337",
-    "company_id": "mistral.ai",
-    "type": "domain",
-    "title": "www2.mistral.ai",
-    "source_url": "https://crt.sh/?q=mistral.ai",
-    "observed_at": "2025-08-12T08:54:52Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "008370c3e8ef3ad3bc6c9448a699c0f90165098a",
-    "company_id": "mistral.ai",
-    "type": "domain",
-    "title": "www2.mistral.ai",
-    "source_url": "https://crt.sh/?q=mistral.ai",
-    "observed_at": "2025-08-12T08:54:52Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "0d91281f6d401e1599a9c470860e8ddce1746d13",
-    "company_id": "mistral.ai",
-    "type": "domain",
-    "title": "www2.mistral.ai",
-    "source_url": "https://crt.sh/?q=mistral.ai",
-    "observed_at": "2025-08-12T08:54:52Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "d22b02b229f70d8dacbe0f7ed3f1294cacb7b3a1",
-    "company_id": "mistral.ai",
-    "type": "domain",
-    "title": "blue.console.mistral.ai",
     "source_url": "https://crt.sh/?q=mistral.ai",
     "observed_at": "2025-08-12T08:54:52Z",
     "delta_metric": 1,
