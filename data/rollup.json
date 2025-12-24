@@ -30753,6 +30753,126 @@
         "score": 35.0
       },
       {
+        "id": "c4ae7fbc5cf83039de3fdb09f04e03a1448fbfd0",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "transformers (\u2605154193)",
+        "source_url": "https://github.com/huggingface/transformers",
+        "observed_at": "2025-12-24T08:28:06Z",
+        "delta_metric": 154193,
+        "score": 35.0
+      },
+      {
+        "id": "1d56690091be65357f669ee970f045e1a505cfa8",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "pytorch-image-models (\u260536067)",
+        "source_url": "https://github.com/huggingface/pytorch-image-models",
+        "observed_at": "2025-12-24T08:28:06Z",
+        "delta_metric": 36067,
+        "score": 35.0
+      },
+      {
+        "id": "ebe83a687cbdb001425867e152d0cfb427da7014",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "trl (\u260516757)",
+        "source_url": "https://github.com/huggingface/trl",
+        "observed_at": "2025-12-24T08:28:06Z",
+        "delta_metric": 16757,
+        "score": 35.0
+      },
+      {
+        "id": "be626c6ea4eb9da3d5c959a4106ff5081ea36e41",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "optimum-intel (\u2605521)",
+        "source_url": "https://github.com/huggingface/optimum-intel",
+        "observed_at": "2025-12-24T08:28:06Z",
+        "delta_metric": 521,
+        "score": 35.0
+      },
+      {
+        "id": "6891c3771e267e5e262d2fc20517b478c0f29f97",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "diffusers (\u260532192)",
+        "source_url": "https://github.com/huggingface/diffusers",
+        "observed_at": "2025-12-24T08:28:06Z",
+        "delta_metric": 32192,
+        "score": 35.0
+      },
+      {
+        "id": "e754ef6c62e688e6c71155dee95306e9ec2e664c",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "optimum-neuron (\u2605253)",
+        "source_url": "https://github.com/huggingface/optimum-neuron",
+        "observed_at": "2025-12-24T08:28:08Z",
+        "delta_metric": 253,
+        "score": 35.0
+      },
+      {
+        "id": "9107a863dbcb963dd870140b22d6d925720460d0",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "transformers.js (\u260515123)",
+        "source_url": "https://github.com/huggingface/transformers.js",
+        "observed_at": "2025-12-24T08:28:08Z",
+        "delta_metric": 15123,
+        "score": 35.0
+      },
+      {
+        "id": "f6343ddcf208292d5f6754333a7c17cf972bd823",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "datatrove (\u26052787)",
+        "source_url": "https://github.com/huggingface/datatrove",
+        "observed_at": "2025-12-24T08:28:08Z",
+        "delta_metric": 2787,
+        "score": 35.0
+      },
+      {
+        "id": "fdf09e37f6431e17e319b11e591ba1345e0c88db",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "candle (\u260518891)",
+        "source_url": "https://github.com/huggingface/candle",
+        "observed_at": "2025-12-24T08:28:08Z",
+        "delta_metric": 18891,
+        "score": 35.0
+      },
+      {
+        "id": "2ecc628f5058324da6be96d672d5682bd68398bb",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "lerobot (\u260520401)",
+        "source_url": "https://github.com/huggingface/lerobot",
+        "observed_at": "2025-12-24T08:28:08Z",
+        "delta_metric": 20401,
+        "score": 35.0
+      },
+      {
+        "id": "168c04d22b8b555823943ad57644d6effc404810",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "kernel-builder (\u2605195)",
+        "source_url": "https://github.com/huggingface/kernel-builder",
+        "observed_at": "2025-12-24T08:28:09Z",
+        "delta_metric": 195,
+        "score": 35.0
+      },
+      {
+        "id": "04780500ad46a0a099acbf8ad6e5395a60ac0586",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "smolagents (\u260524553)",
+        "source_url": "https://github.com/huggingface/smolagents",
+        "observed_at": "2025-12-24T08:28:09Z",
+        "delta_metric": 24553,
+        "score": 35.0
+      },
+      {
         "id": "8cdf192c97305a78701e7fcf4cc1640d319c09a1",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -35601,169 +35721,9 @@
         "observed_at": "2025-08-12T03:11:45Z",
         "delta_metric": 1,
         "score": 14.16
-      },
-      {
-        "id": "0611f57921932747edc9c7eb73765b5c5d19e7b6",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "truebill.status.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "6bcdc4d2b2fbccf8f580dcb1e0755070c1e5f484",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "truebill.status.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "cc7c0abfe4c34b3105bc3aa8f2b7f6acc8b261b2",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "truebill.status.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "bb5c325773f330494bb3951da67c9b982cc3e83f",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "truebill.status.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "bb3b0a0023ed18ce92c6f54d01ad55cf519f578e",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "truebill.status.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "f4f10ba52b1928aca9b7613bd99e83ea867f0530",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "truebill.status.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "7acb0c8a31be790e13a08040596a746c71917845",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "*.api-inference.huggingface.co\napi-inference.huggingface.co\n*.crow.api-inference.huggingface.co\ncrow.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "9d742c0d7e8812865062580e6ffca4347d30a940",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "*.api-inference.huggingface.co\napi-inference.huggingface.co\n*.crow.api-inference.huggingface.co\ncrow.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "909df96ac914ba5bd54a96840d9fa4de43e66b31",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "billing.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "eb852836b1518b95e91cab159b9a9a2be3ce55f7",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "billing.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "d9ba447a65e8629265a1ead60c4a90874cb2331a",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "billing.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "1dcb91edc774d26a41e3087dde538f71b12b7a40",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "billing.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "2d5d1186d243b8e5224b410cf3f21050e10f083b",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "truebill.status.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "914d28a2b37150468198f2154ebbd496257c9253",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "truebill.status.api-inference.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "bc71b3a1222a509e296878d30111a597b6d90afb",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "autotrain.huggingface.co\nui.autotrain.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "0c27758d7568ff103658d277f4d0b23131151c33",
-        "company_id": "huggingface.co",
-        "type": "domain",
-        "title": "*.autotrain.huggingface.co\nautotrain.huggingface.co",
-        "source_url": "https://crt.sh/?q=huggingface.co",
-        "observed_at": "2025-08-12T03:11:45Z",
-        "delta_metric": 1,
-        "score": 14.16
       }
     ],
-    "score_7d": 120048.73000000062
+    "score_7d": 120242.17000000057
   },
   {
     "company_id": "mistral.ai",
@@ -37329,6 +37289,26 @@
         "score": 35.0
       },
       {
+        "id": "0db259e4043ac1487fa6e240c3499099193f6388",
+        "company_id": "mistral.ai",
+        "type": "oss",
+        "title": "platform-docs-public (\u260559)",
+        "source_url": "https://github.com/mistralai/platform-docs-public",
+        "observed_at": "2025-12-24T08:28:15Z",
+        "delta_metric": 59,
+        "score": 35.0
+      },
+      {
+        "id": "1197771cbbc43cd57b67d4bf22b76a303d50afba",
+        "company_id": "mistral.ai",
+        "type": "oss",
+        "title": "mistral-vibe (\u26052298)",
+        "source_url": "https://github.com/mistralai/mistral-vibe",
+        "observed_at": "2025-12-24T08:28:15Z",
+        "delta_metric": 2298,
+        "score": 35.0
+      },
+      {
         "id": "251d8c7c3898c6ec0433e386ee1f3523fa45b01c",
         "company_id": "mistral.ai",
         "type": "oss",
@@ -37457,9 +37437,29 @@
         "observed_at": "2025-12-23T08:27:59Z",
         "delta_metric": 0,
         "score": 15.0
+      },
+      {
+        "id": "4a226b194ac2ca644294f2ec940d3df69c968c70",
+        "company_id": "mistral.ai",
+        "type": "oss",
+        "title": "agent-client-protocol (\u26050)",
+        "source_url": "https://github.com/mistralai/agent-client-protocol",
+        "observed_at": "2025-12-24T08:28:15Z",
+        "delta_metric": 0,
+        "score": 15.0
+      },
+      {
+        "id": "e7f1b06334936470f0bd30ab3db2d638646152bc",
+        "company_id": "mistral.ai",
+        "type": "oss",
+        "title": "zed-extensions (\u26050)",
+        "source_url": "https://github.com/mistralai/zed-extensions",
+        "observed_at": "2025-12-24T08:28:15Z",
+        "delta_metric": 0,
+        "score": 15.0
       }
     ],
-    "score_7d": 5678.2300000000005
+    "score_7d": 5778.2300000000005
   },
   {
     "company_id": "perplexity.ai",
