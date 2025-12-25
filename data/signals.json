@@ -32450,6 +32450,136 @@
     "score": 35.0
   },
   {
+    "id": "4659f14cdcf956969fa55f0316e4a6a62c59be3b",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "transformers (★154222)",
+    "source_url": "https://github.com/huggingface/transformers",
+    "observed_at": "2025-12-25T08:26:37Z",
+    "delta_metric": 154222,
+    "score": 35.0
+  },
+  {
+    "id": "1a9ce445a11f1625ffc6439f93724999b9d8114c",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "pytorch-image-models (★36072)",
+    "source_url": "https://github.com/huggingface/pytorch-image-models",
+    "observed_at": "2025-12-25T08:26:37Z",
+    "delta_metric": 36072,
+    "score": 35.0
+  },
+  {
+    "id": "a5877072e04da3018978237f9b40971406b699e2",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "trl (★16777)",
+    "source_url": "https://github.com/huggingface/trl",
+    "observed_at": "2025-12-25T08:26:37Z",
+    "delta_metric": 16777,
+    "score": 35.0
+  },
+  {
+    "id": "06cc67770803b6de66860027b659e29dad17aa43",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "hub-docs (★488)",
+    "source_url": "https://github.com/huggingface/hub-docs",
+    "observed_at": "2025-12-25T08:26:37Z",
+    "delta_metric": 488,
+    "score": 35.0
+  },
+  {
+    "id": "4814e7e78e046bfe0f589e55c8307cf1c1d6cfed",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "diffusers (★32204)",
+    "source_url": "https://github.com/huggingface/diffusers",
+    "observed_at": "2025-12-25T08:26:37Z",
+    "delta_metric": 32204,
+    "score": 35.0
+  },
+  {
+    "id": "29bf26c72063698358fa7fb8c72fbe93d0ab50b8",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "optimum-neuron (★253)",
+    "source_url": "https://github.com/huggingface/optimum-neuron",
+    "observed_at": "2025-12-25T08:26:39Z",
+    "delta_metric": 253,
+    "score": 35.0
+  },
+  {
+    "id": "b9c58b3c0eb111b2abe090f7a29a681674d18088",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "datatrove (★2788)",
+    "source_url": "https://github.com/huggingface/datatrove",
+    "observed_at": "2025-12-25T08:26:39Z",
+    "delta_metric": 2788,
+    "score": 35.0
+  },
+  {
+    "id": "5077c606cfd4de9435e9f67d1a2ffd7b9ef083ee",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "candle (★18896)",
+    "source_url": "https://github.com/huggingface/candle",
+    "observed_at": "2025-12-25T08:26:39Z",
+    "delta_metric": 18896,
+    "score": 35.0
+  },
+  {
+    "id": "c62be139282b9a4d8123d4af289eaf07d9675e41",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "lerobot (★20431)",
+    "source_url": "https://github.com/huggingface/lerobot",
+    "observed_at": "2025-12-25T08:26:39Z",
+    "delta_metric": 20431,
+    "score": 35.0
+  },
+  {
+    "id": "ff88f6a39fa911948f3810820f831c9cbfd93930",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "xet-core (★359)",
+    "source_url": "https://github.com/huggingface/xet-core",
+    "observed_at": "2025-12-25T08:26:40Z",
+    "delta_metric": 359,
+    "score": 35.0
+  },
+  {
+    "id": "0e462023ca8defabbb76e64effb51f27b47400f6",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "ai-deadlines (★295)",
+    "source_url": "https://github.com/huggingface/ai-deadlines",
+    "observed_at": "2025-12-25T08:26:42Z",
+    "delta_metric": 295,
+    "score": 35.0
+  },
+  {
+    "id": "61d8cbf2138747e9cf5fe40fc5995033a73bca5b",
+    "company_id": "mistral.ai",
+    "type": "oss",
+    "title": "platform-docs-public (★59)",
+    "source_url": "https://github.com/mistralai/platform-docs-public",
+    "observed_at": "2025-12-25T08:26:43Z",
+    "delta_metric": 59,
+    "score": 35.0
+  },
+  {
+    "id": "d16ec4fde987c6ee89e9e43920cb37a71627ed26",
+    "company_id": "mistral.ai",
+    "type": "oss",
+    "title": "mistral-vibe (★2320)",
+    "source_url": "https://github.com/mistralai/mistral-vibe",
+    "observed_at": "2025-12-25T08:26:43Z",
+    "delta_metric": 2320,
+    "score": 35.0
+  },
+  {
     "id": "8cdf192c97305a78701e7fcf4cc1640d319c09a1",
     "company_id": "huggingface.co",
     "type": "oss",
@@ -37346,6 +37476,16 @@
     "title": "zed-extensions (★0)",
     "source_url": "https://github.com/mistralai/zed-extensions",
     "observed_at": "2025-12-24T08:28:15Z",
+    "delta_metric": 0,
+    "score": 15.0
+  },
+  {
+    "id": "90ec1b9c949c0d348ec830696e89de91b9eae0ce",
+    "company_id": "mistral.ai",
+    "type": "oss",
+    "title": "zed-extensions (★0)",
+    "source_url": "https://github.com/mistralai/zed-extensions",
+    "observed_at": "2025-12-25T08:26:43Z",
     "delta_metric": 0,
     "score": 15.0
   },
@@ -49856,146 +49996,6 @@
     "title": "blog.perplexity.ai",
     "source_url": "https://crt.sh/?q=perplexity.ai",
     "observed_at": "2025-08-12T03:11:18Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "32f31b009dd94a5aac3ca0818bde13a2000c801b",
-    "company_id": "perplexity.ai",
-    "type": "domain",
-    "title": "blog.perplexity.ai",
-    "source_url": "https://crt.sh/?q=perplexity.ai",
-    "observed_at": "2025-08-12T03:11:18Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "de2c3c810e2e9ce75fefd51f4b7503d6cb7d5743",
-    "company_id": "perplexity.ai",
-    "type": "domain",
-    "title": "blog.perplexity.ai",
-    "source_url": "https://crt.sh/?q=perplexity.ai",
-    "observed_at": "2025-08-12T03:11:18Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "9be39f7c485643ff66c59dd5f76ab2bad6146c73",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "44202fed91ff9befe4a5640a980568b2ae835928",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "ca1cd9cc532925411f557c901577447ccd2c1556",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "9fb062dd281b4a0ec038791046a2af53916122f6",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "bde72609b656ce29f6829bc3fddb2c1b13b61672",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "b62dc4536e4d6b900f0265aaa081a8837f020003",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "1f5f54de8c7748995ef921b6100fafd6d638040b",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "autotrain.huggingface.co\nui.autotrain.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "a3dad8659b32d3c3e87de53621ac0effa6271a00",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "35e12c4a84448225d7cf48aaaa190f92757fc49a",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "6118bffe81627e503e93ba6021881601b1395193",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "f9698aadc8dccf8af8c6574850397ade584123b4",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "truebill.status.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "ebfa2c489d3a754f5a4e7e27b65a1601c186887c",
-    "company_id": "huggingface.co",
-    "type": "domain",
-    "title": "*.api-inference.huggingface.co\napi-inference.huggingface.co\n*.crow.api-inference.huggingface.co\ncrow.api-inference.huggingface.co",
-    "source_url": "https://crt.sh/?q=huggingface.co",
-    "observed_at": "2025-08-12T03:11:45Z",
     "delta_metric": 1,
     "score": 14.16
   }
