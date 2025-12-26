@@ -32580,6 +32580,46 @@
     "score": 35.0
   },
   {
+    "id": "64375b42cb8409435a6baf542a39f1110a79b92d",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "hub-docs (★489)",
+    "source_url": "https://github.com/huggingface/hub-docs",
+    "observed_at": "2025-12-26T08:26:56Z",
+    "delta_metric": 489,
+    "score": 35.0
+  },
+  {
+    "id": "3dfa4cc2a2284e5b27f783ffbf04d02288c17396",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "diffusers (★32223)",
+    "source_url": "https://github.com/huggingface/diffusers",
+    "observed_at": "2025-12-26T08:26:56Z",
+    "delta_metric": 32223,
+    "score": 35.0
+  },
+  {
+    "id": "55a049b4229716a4af470a83a5c82e9e14ce1cb9",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "lerobot (★20449)",
+    "source_url": "https://github.com/huggingface/lerobot",
+    "observed_at": "2025-12-26T08:26:57Z",
+    "delta_metric": 20449,
+    "score": 35.0
+  },
+  {
+    "id": "e103619a1911ff5455a0374f44fa8703b63f6910",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "ai-deadlines (★298)",
+    "source_url": "https://github.com/huggingface/ai-deadlines",
+    "observed_at": "2025-12-26T08:27:00Z",
+    "delta_metric": 298,
+    "score": 35.0
+  },
+  {
     "id": "8cdf192c97305a78701e7fcf4cc1640d319c09a1",
     "company_id": "huggingface.co",
     "type": "oss",
@@ -35850,6 +35890,16 @@
     "score": 21.59
   },
   {
+    "id": "3f26603fc51c96bc29993dbac6f0b3e6e0ffe855",
+    "company_id": "huggingface.co",
+    "type": "oss",
+    "title": "publish-to-the-kernel-hub-action (★2)",
+    "source_url": "https://github.com/huggingface/publish-to-the-kernel-hub-action",
+    "observed_at": "2025-12-26T08:27:00Z",
+    "delta_metric": 2,
+    "score": 21.59
+  },
+  {
     "id": "febb41eadb2edf3f9f0733e55ac522df77ef264d",
     "company_id": "huggingface.co",
     "type": "oss",
@@ -36636,16 +36686,6 @@
     "title": "torchtitan (★1)",
     "source_url": "https://github.com/huggingface/torchtitan",
     "observed_at": "2025-12-17T08:28:27Z",
-    "delta_metric": 1,
-    "score": 19.16
-  },
-  {
-    "id": "3f26603fc51c96bc29993dbac6f0b3e6e0ffe855",
-    "company_id": "huggingface.co",
-    "type": "oss",
-    "title": "publish-to-the-kernel-hub-action (★1)",
-    "source_url": "https://github.com/huggingface/publish-to-the-kernel-hub-action",
-    "observed_at": "2025-12-19T08:27:21Z",
     "delta_metric": 1,
     "score": 19.16
   },
@@ -49954,46 +49994,6 @@
     "company_id": "perplexity.ai",
     "type": "domain",
     "title": "*.perplexity.ai\nperplexity.ai",
-    "source_url": "https://crt.sh/?q=perplexity.ai",
-    "observed_at": "2025-08-12T03:11:18Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "e545b8fe1229934b6524db6a24f31e1cd2b35391",
-    "company_id": "perplexity.ai",
-    "type": "domain",
-    "title": "*.perplexity.ai\nperplexity.ai",
-    "source_url": "https://crt.sh/?q=perplexity.ai",
-    "observed_at": "2025-08-12T03:11:18Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "e824ec0a257cb2cb3f0dc727532e3a70e9ffe9c8",
-    "company_id": "perplexity.ai",
-    "type": "domain",
-    "title": "perplexity.ai\nwww.perplexity.ai",
-    "source_url": "https://crt.sh/?q=perplexity.ai",
-    "observed_at": "2025-08-12T03:11:18Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "0eab8339903dec3fbb190e1b4e7c9fc53e16fc23",
-    "company_id": "perplexity.ai",
-    "type": "domain",
-    "title": "blog.perplexity.ai",
-    "source_url": "https://crt.sh/?q=perplexity.ai",
-    "observed_at": "2025-08-12T03:11:18Z",
-    "delta_metric": 1,
-    "score": 14.16
-  },
-  {
-    "id": "9d24d8a3a2ab1f9ce844b607aea4c6d36a4fdb97",
-    "company_id": "perplexity.ai",
-    "type": "domain",
-    "title": "blog.perplexity.ai",
     "source_url": "https://crt.sh/?q=perplexity.ai",
     "observed_at": "2025-08-12T03:11:18Z",
     "delta_metric": 1,
