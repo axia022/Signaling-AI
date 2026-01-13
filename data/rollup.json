@@ -33083,6 +33083,226 @@
         "score": 35.0
       },
       {
+        "id": "9885f79753b01300f496207580e4ea76ca12aea0",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "transformers (\u2605154988)",
+        "source_url": "https://github.com/huggingface/transformers",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 154988,
+        "score": 35.0
+      },
+      {
+        "id": "52df952fda9ff176abd40b9f98d9fe9c846e39e5",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "tokenizers (\u260510386)",
+        "source_url": "https://github.com/huggingface/tokenizers",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 10386,
+        "score": 35.0
+      },
+      {
+        "id": "bd1ebed8e4d7b4aecec33777c74539c34922343b",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "datasets (\u260521078)",
+        "source_url": "https://github.com/huggingface/datasets",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 21078,
+        "score": 35.0
+      },
+      {
+        "id": "428a24fd9da9594b781ec9452f1be24a9374ffa4",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "trl (\u260516939)",
+        "source_url": "https://github.com/huggingface/trl",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 16939,
+        "score": 35.0
+      },
+      {
+        "id": "e21485bb217de9a130ed0c54eec14f9c99f1d71d",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "accelerate (\u26059433)",
+        "source_url": "https://github.com/huggingface/accelerate",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 9433,
+        "score": 35.0
+      },
+      {
+        "id": "6ced23cff7b73988d78815cf62e7472c92599342",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "huggingface_hub (\u26053243)",
+        "source_url": "https://github.com/huggingface/huggingface_hub",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 3243,
+        "score": 35.0
+      },
+      {
+        "id": "c00204d181e6a280c0fbfd30822d7c3da70147c8",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "doc-builder (\u2605134)",
+        "source_url": "https://github.com/huggingface/doc-builder",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 134,
+        "score": 35.0
+      },
+      {
+        "id": "c9b34505e443d7013669221f833c4245063dc633",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "optimum-habana (\u2605204)",
+        "source_url": "https://github.com/huggingface/optimum-habana",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 204,
+        "score": 35.0
+      },
+      {
+        "id": "bca9d8c3d4ec1e7096d2aabcf8fcf58c8d8fa8d2",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "hub-docs (\u2605493)",
+        "source_url": "https://github.com/huggingface/hub-docs",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 493,
+        "score": 35.0
+      },
+      {
+        "id": "19119278fc0a157ecc4beee3a4d0bc3d5fcd4ae3",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "optimum-intel (\u2605528)",
+        "source_url": "https://github.com/huggingface/optimum-intel",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 528,
+        "score": 35.0
+      },
+      {
+        "id": "08a24ed5c168f725b4b67ff944dd873f302060d4",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "diffusers (\u260532428)",
+        "source_url": "https://github.com/huggingface/diffusers",
+        "observed_at": "2026-01-13T08:29:03Z",
+        "delta_metric": 32428,
+        "score": 35.0
+      },
+      {
+        "id": "88aa5f9d04ae9bb6ba15848f93aa3b369c078d2f",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "peft (\u260520448)",
+        "source_url": "https://github.com/huggingface/peft",
+        "observed_at": "2026-01-13T08:29:05Z",
+        "delta_metric": 20448,
+        "score": 35.0
+      },
+      {
+        "id": "8bf75e6b1ee6c6783e58bb408a7ea8b3bd308f73",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "optimum-neuron (\u2605255)",
+        "source_url": "https://github.com/huggingface/optimum-neuron",
+        "observed_at": "2026-01-13T08:29:05Z",
+        "delta_metric": 255,
+        "score": 35.0
+      },
+      {
+        "id": "d8b5db6e89a79d48aea122108c725a2cb64b6d5b",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "huggingface.js (\u26052324)",
+        "source_url": "https://github.com/huggingface/huggingface.js",
+        "observed_at": "2026-01-13T08:29:05Z",
+        "delta_metric": 2324,
+        "score": 35.0
+      },
+      {
+        "id": "db70cdd94a73b33716e62e7354de3abb85b9b862",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "transformers.js (\u260515206)",
+        "source_url": "https://github.com/huggingface/transformers.js",
+        "observed_at": "2026-01-13T08:29:05Z",
+        "delta_metric": 15206,
+        "score": 35.0
+      },
+      {
+        "id": "8ec1cb067f16eef00ee5e005f5db5ae3bb38ca51",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "lighteval (\u26052251)",
+        "source_url": "https://github.com/huggingface/lighteval",
+        "observed_at": "2026-01-13T08:29:05Z",
+        "delta_metric": 2251,
+        "score": 35.0
+      },
+      {
+        "id": "ba0ecf2e496f0f5f09f647c51d771e6c60f252e9",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "lerobot (\u260520866)",
+        "source_url": "https://github.com/huggingface/lerobot",
+        "observed_at": "2026-01-13T08:29:05Z",
+        "delta_metric": 20866,
+        "score": 35.0
+      },
+      {
+        "id": "fb85aa33e84873a370f5657e1ff791429020e9c6",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "xet-core (\u2605382)",
+        "source_url": "https://github.com/huggingface/xet-core",
+        "observed_at": "2026-01-13T08:29:07Z",
+        "delta_metric": 382,
+        "score": 35.0
+      },
+      {
+        "id": "442f210ea523dd2c92e62cbe4a379ab2a8a95655",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "kernels (\u2605360)",
+        "source_url": "https://github.com/huggingface/kernels",
+        "observed_at": "2026-01-13T08:29:07Z",
+        "delta_metric": 360,
+        "score": 35.0
+      },
+      {
+        "id": "17975fa577d9ec8128552b23924efea7f4692dfc",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "ai-deadlines (\u2605311)",
+        "source_url": "https://github.com/huggingface/ai-deadlines",
+        "observed_at": "2026-01-13T08:29:08Z",
+        "delta_metric": 311,
+        "score": 35.0
+      },
+      {
+        "id": "0eecf59706a63da651d2bdb65bef734025962ffa",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "kernels-community (\u260543)",
+        "source_url": "https://github.com/huggingface/kernels-community",
+        "observed_at": "2026-01-13T08:29:08Z",
+        "delta_metric": 43,
+        "score": 35.0
+      },
+      {
+        "id": "b8cc5c026af03ab8a3d70e46ebefb61bcd77d377",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "skills (\u2605897)",
+        "source_url": "https://github.com/huggingface/skills",
+        "observed_at": "2026-01-13T08:29:08Z",
+        "delta_metric": 897,
+        "score": 35.0
+      },
+      {
         "id": "8cdf192c97305a78701e7fcf4cc1640d319c09a1",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -33243,6 +33463,16 @@
         "score": 34.31
       },
       {
+        "id": "9f711379d29de4809ab24b1636439700188ffe79",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "dataset-dedupe-estimator (\u260524)",
+        "source_url": "https://github.com/huggingface/dataset-dedupe-estimator",
+        "observed_at": "2026-01-13T08:29:07Z",
+        "delta_metric": 24,
+        "score": 34.31
+      },
+      {
         "id": "140663c95081a92facd352934587e055c9ff2fd9",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -33349,16 +33579,6 @@
         "title": "pyspark_huggingface (\u260522)",
         "source_url": "https://github.com/huggingface/pyspark_huggingface",
         "observed_at": "2025-11-25T08:26:36Z",
-        "delta_metric": 22,
-        "score": 33.81
-      },
-      {
-        "id": "9f711379d29de4809ab24b1636439700188ffe79",
-        "company_id": "huggingface.co",
-        "type": "oss",
-        "title": "dataset-dedupe-estimator (\u260522)",
-        "source_url": "https://github.com/huggingface/dataset-dedupe-estimator",
-        "observed_at": "2025-12-08T08:29:11Z",
         "delta_metric": 22,
         "score": 33.81
       },
@@ -35903,6 +36123,16 @@
         "score": 24.66
       },
       {
+        "id": "05d2992b19f69a4db867b9df814c0650fe0f109e",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "finetranslations (\u26054)",
+        "source_url": "https://github.com/huggingface/finetranslations",
+        "observed_at": "2026-01-13T08:29:08Z",
+        "delta_metric": 4,
+        "score": 24.66
+      },
+      {
         "id": "2c2efe9688b9f51ac25451083e1563b9d8611426",
         "company_id": "huggingface.co",
         "type": "product",
@@ -36419,16 +36649,6 @@
         "title": "security-workflows (\u26052)",
         "source_url": "https://github.com/huggingface/security-workflows",
         "observed_at": "2026-01-10T08:24:46Z",
-        "delta_metric": 2,
-        "score": 21.59
-      },
-      {
-        "id": "05d2992b19f69a4db867b9df814c0650fe0f109e",
-        "company_id": "huggingface.co",
-        "type": "oss",
-        "title": "finetranslations (\u26052)",
-        "source_url": "https://github.com/huggingface/finetranslations",
-        "observed_at": "2026-01-11T08:24:43Z",
         "delta_metric": 2,
         "score": 21.59
       },
@@ -37931,9 +38151,19 @@
         "observed_at": "2025-11-27T08:26:35Z",
         "delta_metric": 0,
         "score": 15.0
+      },
+      {
+        "id": "88e314ab4f45e0b4cae9aca7319995bc8d129dd8",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "clamd-client (\u26050)",
+        "source_url": "https://github.com/huggingface/clamd-client",
+        "observed_at": "2026-01-13T08:29:05Z",
+        "delta_metric": 0,
+        "score": 15.0
       }
     ],
-    "score_7d": 128106.53000000052
+    "score_7d": 128895.10000000053
   },
   {
     "company_id": "mistral.ai",
@@ -39709,6 +39939,26 @@
         "score": 35.0
       },
       {
+        "id": "930627778bb0836a961dd122790d6da5afbae2fc",
+        "company_id": "mistral.ai",
+        "type": "oss",
+        "title": "client-python (\u2605685)",
+        "source_url": "https://github.com/mistralai/client-python",
+        "observed_at": "2026-01-13T08:29:21Z",
+        "delta_metric": 685,
+        "score": 35.0
+      },
+      {
+        "id": "caaafda82b1b40bd4dc0835e2c56582af4495aca",
+        "company_id": "mistral.ai",
+        "type": "oss",
+        "title": "mistral-vibe (\u26052606)",
+        "source_url": "https://github.com/mistralai/mistral-vibe",
+        "observed_at": "2026-01-13T08:29:21Z",
+        "delta_metric": 2606,
+        "score": 35.0
+      },
+      {
         "id": "251d8c7c3898c6ec0433e386ee1f3523fa45b01c",
         "company_id": "mistral.ai",
         "type": "oss",
@@ -39897,9 +40147,19 @@
         "observed_at": "2026-01-09T08:28:33Z",
         "delta_metric": 0,
         "score": 15.0
+      },
+      {
+        "id": "1be329a3ad763aed9412f9d8d0bd775978e7ab54",
+        "company_id": "mistral.ai",
+        "type": "oss",
+        "title": "zed-extensions (\u26050)",
+        "source_url": "https://github.com/mistralai/zed-extensions",
+        "observed_at": "2026-01-13T08:29:21Z",
+        "delta_metric": 0,
+        "score": 15.0
       }
     ],
-    "score_7d": 6503.2300000000005
+    "score_7d": 6588.2300000000005
   },
   {
     "company_id": "perplexity.ai",
@@ -49753,268 +50013,8 @@
         "observed_at": "2025-08-12T03:11:18Z",
         "delta_metric": 1,
         "score": 14.16
-      },
-      {
-        "id": "88cbb268563345a72df89296f48087bd99b72679",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "*.perplexity.ai\nperplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "d65f549f612c70833f7a4249f6f628e53b789574",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "demo-blog.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "f2668d2750c8557ab062c65798485730a98489b5",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "demo-blog.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "1e7dc4c7fb179a9bc5114f98675dfb504dae55ab",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "demo-blog.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "dde419556f859d7d5bc7f6a85cce57e71e5a4b82",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "demo-blog.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "1014e6cfc1ffd7bfbb38632f868c84a648815f1f",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "teachers-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "eaa2c1684e20b0805531184006176c424eac6862",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "teachers-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "bf8c18a348ff9c91984195a80190abbaacfd7f04",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "ead91c880681f7f9547776ebfc180f398363553b",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "1dcda2efcdcba87567eeb6673cebcd68d31b74ef",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "86c4f02ea8c7e33759e843372635baec12a0d0ad",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "03237beb22b8774ba4c79ca4720490c21b945770",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "5fe20628e3c171d2f91298df39811572a07a6e9e",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "31d479f19b705b2e7e5553cc12ded76309068750",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "encyclopedia-prod-framer.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "1892535c8fda21f8d6966ed0764669b6b7262a66",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "encyclopedia-prod-framer.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "60968eb0ca65b9865283bee05b799572ac5613fe",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "productmanagers-prod-framer.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "e2c2cdbf1938b5ef834ca0f16666107bc4cc97b2",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "productmanagers-prod-framer.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "a62f27e01742af6d1a7fa5ab4ed812a5855dbd11",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "trust.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "c67eb453f7408ad7a8dd31b6e8efb3714ae0ea07",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "trust.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "40522bb95ae5516c2d03e3e95a37e27707417a8a",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "trust.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "178d2e3b73d22d345b8e775caf013ce8ea50ba72",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "trust.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "3f57672c9a01ca25030c59bcaff23402aad7bb30",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-authkit.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "613e7ba2a379441c58757e3af1a8ec568fdfe26d",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-authkit.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "72a9ef802ec257b07fa8d17cd7ee9a9313b8ac39",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-setup.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "bd95b612c0baf9c500e945decaeb003b8c9c8b4d",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-setup.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "1a22f9f0ff816262f6f8b53f7e1543df08422440",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "enterprise-auth.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
       }
     ],
-    "score_7d": 14337.84999999988
+    "score_7d": 13969.689999999884
   }
 ]
