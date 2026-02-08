@@ -38353,6 +38353,56 @@
         "score": 35.0
       },
       {
+        "id": "3bf7e14ccdf8aa9aef939743c26567837eedca04",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "transformers (\u2605156211)",
+        "source_url": "https://github.com/huggingface/transformers",
+        "observed_at": "2026-02-08T08:31:35Z",
+        "delta_metric": 156211,
+        "score": 35.0
+      },
+      {
+        "id": "f0b02507fd744ac1adf9f24de51799fb0bf840fd",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "trl (\u260517308)",
+        "source_url": "https://github.com/huggingface/trl",
+        "observed_at": "2026-02-08T08:31:35Z",
+        "delta_metric": 17308,
+        "score": 35.0
+      },
+      {
+        "id": "a37216498cafcd78c94d2f292fe8084088e3c4f8",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "hub-docs (\u2605498)",
+        "source_url": "https://github.com/huggingface/hub-docs",
+        "observed_at": "2026-02-08T08:31:35Z",
+        "delta_metric": 498,
+        "score": 35.0
+      },
+      {
+        "id": "8a7760b00d05a5db0f34699a60c95e3e6e27aad3",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "diffusers (\u260532716)",
+        "source_url": "https://github.com/huggingface/diffusers",
+        "observed_at": "2026-02-08T08:31:35Z",
+        "delta_metric": 32716,
+        "score": 35.0
+      },
+      {
+        "id": "ef375708eb23fe4a19156443b023427b87a786fa",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "text-embeddings-inference (\u26054479)",
+        "source_url": "https://github.com/huggingface/text-embeddings-inference",
+        "observed_at": "2026-02-08T08:31:36Z",
+        "delta_metric": 4479,
+        "score": 35.0
+      },
+      {
         "id": "8cdf192c97305a78701e7fcf4cc1640d319c09a1",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -43483,7 +43533,7 @@
         "score": 15.0
       }
     ],
-    "score_7d": 147300.99000000054
+    "score_7d": 147475.99000000054
   },
   {
     "company_id": "mistral.ai",
@@ -49963,58 +50013,8 @@
         "observed_at": "2025-08-12T03:11:18Z",
         "delta_metric": 1,
         "score": 14.16
-      },
-      {
-        "id": "f6a090dd582accad19beaf35f756aa8118175e24",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "hub-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "e58253f21462ce4bea96f4e93a2a9935a4d49265",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "hub-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "3e88c416ec9ca1654862c70650fdcd8133c2daed",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "hub-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "8f4470af3614b4bcaa0bf1f62ed744a8d7f70bc1",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "hub-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
-      },
-      {
-        "id": "76da92bedc293d1f08fe97b47743cd4dbd5df9e8",
-        "company_id": "perplexity.ai",
-        "type": "domain",
-        "title": "hub-prod.perplexity.ai",
-        "source_url": "https://crt.sh/?q=perplexity.ai",
-        "observed_at": "2025-08-12T03:11:18Z",
-        "delta_metric": 1,
-        "score": 14.16
       }
     ],
-    "score_7d": 5728.569999999968
+    "score_7d": 5657.769999999969
   }
 ]
