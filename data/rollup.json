@@ -42763,6 +42763,96 @@
         "score": 35.0
       },
       {
+        "id": "8d18d97448c237c99e2f1f363c923cc519193694",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "Mongoku (\u26051394)",
+        "source_url": "https://github.com/huggingface/Mongoku",
+        "observed_at": "2026-03-01T08:29:24Z",
+        "delta_metric": 1394,
+        "score": 35.0
+      },
+      {
+        "id": "05c9af405b0b7c32c9aed50f84665dddd3cbbed1",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "huggingface_hub (\u26053370)",
+        "source_url": "https://github.com/huggingface/huggingface_hub",
+        "observed_at": "2026-03-01T08:29:24Z",
+        "delta_metric": 3370,
+        "score": 35.0
+      },
+      {
+        "id": "0869de6c0392561268bbfb5480002e207cd554cb",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "hub-docs (\u2605508)",
+        "source_url": "https://github.com/huggingface/hub-docs",
+        "observed_at": "2026-03-01T08:29:24Z",
+        "delta_metric": 508,
+        "score": 35.0
+      },
+      {
+        "id": "604ac99c8cf4de5bda6cfa2782f56ea72451fadd",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "diffusers (\u260532900)",
+        "source_url": "https://github.com/huggingface/diffusers",
+        "observed_at": "2026-03-01T08:29:24Z",
+        "delta_metric": 32900,
+        "score": 35.0
+      },
+      {
+        "id": "b27cb49c1038be7a3fc7b5a2e27257c362f05d05",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "peft (\u260520703)",
+        "source_url": "https://github.com/huggingface/peft",
+        "observed_at": "2026-03-01T08:29:25Z",
+        "delta_metric": 20703,
+        "score": 35.0
+      },
+      {
+        "id": "568b36d9cd9abc7ae478fb46a3472d2eb184f032",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "transformers.js (\u260515465)",
+        "source_url": "https://github.com/huggingface/transformers.js",
+        "observed_at": "2026-03-01T08:29:25Z",
+        "delta_metric": 15465,
+        "score": 35.0
+      },
+      {
+        "id": "05ab20ec3dd385dc52d3f9c11cd24efac120e05d",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "candle (\u260519509)",
+        "source_url": "https://github.com/huggingface/candle",
+        "observed_at": "2026-03-01T08:29:25Z",
+        "delta_metric": 19509,
+        "score": 35.0
+      },
+      {
+        "id": "112d28db9471964680e2e3843a798c13dec48034",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "lerobot (\u260521877)",
+        "source_url": "https://github.com/huggingface/lerobot",
+        "observed_at": "2026-03-01T08:29:25Z",
+        "delta_metric": 21877,
+        "score": 35.0
+      },
+      {
+        "id": "89498f3a8a3c368776136035c9ef49d133868231",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "kernels (\u2605453)",
+        "source_url": "https://github.com/huggingface/kernels",
+        "observed_at": "2026-03-01T08:29:27Z",
+        "delta_metric": 453,
+        "score": 35.0
+      },
+      {
         "id": "8cdf192c97305a78701e7fcf4cc1640d319c09a1",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -44373,6 +44463,16 @@
         "score": 30.83
       },
       {
+        "id": "0020b93924fcf4a47fc56916605106663e3abe1c",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "Microsoft-Azure (\u260513)",
+        "source_url": "https://github.com/huggingface/Microsoft-Azure",
+        "observed_at": "2026-03-01T08:29:28Z",
+        "delta_metric": 13,
+        "score": 30.83
+      },
+      {
         "id": "116426a7163e2bf4cc947a14f44a71bae17999c9",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -45233,6 +45333,16 @@
         "score": 28.18
       },
       {
+        "id": "469950e19d5b37f69a176004be2ed5e0c296078f",
+        "company_id": "huggingface.co",
+        "type": "oss",
+        "title": "lerobot-libero (\u26058)",
+        "source_url": "https://github.com/huggingface/lerobot-libero",
+        "observed_at": "2026-03-01T08:29:28Z",
+        "delta_metric": 8,
+        "score": 28.18
+      },
+      {
         "id": "16e2ce758283c30d37c89dd2e533d9c75bca5f4f",
         "company_id": "huggingface.co",
         "type": "oss",
@@ -45419,16 +45529,6 @@
         "title": "diff2html (\u26057)",
         "source_url": "https://github.com/huggingface/diff2html",
         "observed_at": "2026-01-08T08:28:40Z",
-        "delta_metric": 7,
-        "score": 27.48
-      },
-      {
-        "id": "469950e19d5b37f69a176004be2ed5e0c296078f",
-        "company_id": "huggingface.co",
-        "type": "oss",
-        "title": "lerobot-libero (\u26057)",
-        "source_url": "https://github.com/huggingface/lerobot-libero",
-        "observed_at": "2026-01-21T08:30:10Z",
         "delta_metric": 7,
         "score": 27.48
       },
@@ -47301,59 +47401,9 @@
         "observed_at": "2025-12-20T08:23:39Z",
         "delta_metric": 1,
         "score": 19.16
-      },
-      {
-        "id": "5d4b3b3ef73d4cac4ece0bb70ecebb7ee290e6b5",
-        "company_id": "huggingface.co",
-        "type": "oss",
-        "title": "vllm-dca (\u26051)",
-        "source_url": "https://github.com/huggingface/vllm-dca",
-        "observed_at": "2025-12-22T08:29:08Z",
-        "delta_metric": 1,
-        "score": 19.16
-      },
-      {
-        "id": "126c9e34644e8a311e6841567ccf1b5920f435b1",
-        "company_id": "huggingface.co",
-        "type": "oss",
-        "title": "gpu-mode-openenv (\u26051)",
-        "source_url": "https://github.com/huggingface/gpu-mode-openenv",
-        "observed_at": "2026-01-09T08:28:21Z",
-        "delta_metric": 1,
-        "score": 19.16
-      },
-      {
-        "id": "69cf84680b1e269f8412387805acbf16fed267db",
-        "company_id": "huggingface.co",
-        "type": "oss",
-        "title": "lerobot-annotate (\u26051)",
-        "source_url": "https://github.com/huggingface/lerobot-annotate",
-        "observed_at": "2026-01-26T08:31:12Z",
-        "delta_metric": 1,
-        "score": 19.16
-      },
-      {
-        "id": "9add3f8c636afc713fff70efa7d887f11a7cf26b",
-        "company_id": "huggingface.co",
-        "type": "oss",
-        "title": "lerobot-annotate (\u26051)",
-        "source_url": "https://github.com/huggingface/lerobot-annotate",
-        "observed_at": "2026-01-27T08:31:38Z",
-        "delta_metric": 1,
-        "score": 19.16
-      },
-      {
-        "id": "98daa57e00451e936e94a5c27e477543c8814e16",
-        "company_id": "huggingface.co",
-        "type": "oss",
-        "title": "lerobot-annotate (\u26051)",
-        "source_url": "https://github.com/huggingface/lerobot-annotate",
-        "observed_at": "2026-01-29T08:37:36Z",
-        "delta_metric": 1,
-        "score": 19.16
       }
     ],
-    "score_7d": 162213.27000000048
+    "score_7d": 162464.00000000044
   },
   {
     "company_id": "mistral.ai",
@@ -49937,59 +49987,9 @@
         "observed_at": "2026-02-28T08:27:48Z",
         "delta_metric": 2,
         "score": 21.59
-      },
-      {
-        "id": "1be329a3ad763aed9412f9d8d0bd775978e7ab54",
-        "company_id": "mistral.ai",
-        "type": "oss",
-        "title": "zed-extensions (\u26051)",
-        "source_url": "https://github.com/mistralai/zed-extensions",
-        "observed_at": "2026-01-19T08:31:34Z",
-        "delta_metric": 1,
-        "score": 19.16
-      },
-      {
-        "id": "06128dadeb57c9c3f2013cac51d55717b44ccf37",
-        "company_id": "mistral.ai",
-        "type": "oss",
-        "title": "zed-extensions (\u26051)",
-        "source_url": "https://github.com/mistralai/zed-extensions",
-        "observed_at": "2026-01-28T08:30:34Z",
-        "delta_metric": 1,
-        "score": 19.16
-      },
-      {
-        "id": "d52cc902695ddaf53cae0d0932a716d106515638",
-        "company_id": "mistral.ai",
-        "type": "oss",
-        "title": "zed-extensions (\u26051)",
-        "source_url": "https://github.com/mistralai/zed-extensions",
-        "observed_at": "2026-01-29T08:38:01Z",
-        "delta_metric": 1,
-        "score": 19.16
-      },
-      {
-        "id": "257760670793dccff4107e8f5c04446d95060d2b",
-        "company_id": "mistral.ai",
-        "type": "oss",
-        "title": "zed-extensions (\u26051)",
-        "source_url": "https://github.com/mistralai/zed-extensions",
-        "observed_at": "2026-01-31T08:28:53Z",
-        "delta_metric": 1,
-        "score": 19.16
-      },
-      {
-        "id": "56478e4d7c4bb9472d5947f8ca79829661286555",
-        "company_id": "mistral.ai",
-        "type": "oss",
-        "title": "zed-extensions (\u26051)",
-        "source_url": "https://github.com/mistralai/zed-extensions",
-        "observed_at": "2026-02-01T08:30:41Z",
-        "delta_metric": 1,
-        "score": 19.16
       }
     ],
-    "score_7d": 9095.619999999999
+    "score_7d": 8999.82
   },
   {
     "company_id": "perplexity.ai",
